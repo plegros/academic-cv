@@ -2,115 +2,95 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+  display: Patrick Legros
+  given: Patrick
+  family: Legros
+  alternate: ''
+  pronunciation: ''
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+role: Professor of Economics (Emeritus)
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
-
+  bio: |
+  Patrick Legros is Professor of Economics at the [Université Libre de Bruxelles](https://www.ulb.be), and is affiliated with the research center [ECARES](https://ecares.ulb.be) within the [Solvay Brussels School of Economics and Management](https://www.solvay.edu).
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Université Libre de Bruxelles
+    url: https://www.ulb.be
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
-  - icon: brands/github
-    url: https://github.com/example
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
+  - icon: hero/envelope
+    url: 'mailto:plegros@ulb.be'
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
+    url: https://scholar.google.com/citations?user=M2h8mJkAAAAJ
+  - icon: academicons/ssrn
+    url: https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=135596
   - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://orcid.org/0000-0001-5102-7340
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - "[Organizational Economics](/tags/oe/)"
+  - "[Industrial organization](/tags/io/)"
+  - "[Market design](/tags/design/)"
+  - "[Education](/tags/education/)"
+  - "[Game theory](/tags/game/)"
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
-    summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: PhD Economics
+    institution: California Institute of Technology
+    end: 1989
+  - degree: MS Economics
+    institution: California Institute of Technology
+    end: 1988
+  - degree: Doctorat en Sciences Économiques
+    institution: Université Paris 12
+    end: 1986
+  - degree: M.A. Économie, option économétrie
+    institution: Université Paris 12
+    end: 1979
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
-    summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
-    summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
-
-skills:
-  - name: Technical Skills
-    items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
-
-languages:
-  - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+  - role: Professor (Emeritus) of Economics
+    org: Université Libre de Bruxelles
+    start: 2021
+  - role: Distinguished Professor of Economics
+    org: Northeastern University
+    start: 2016
+    end: 2020
+  - role: Full Professor of Economics
+    org: Université Libre de Bruxelles
+    start: 2001
+    end: 2021
+  - role: Associate Professor of Economics
+    org: Université Libre de Bruxelles
+    start: 1999
+    end: 2000
+  - role: Associate Professor of Economics
+    org: Université de Liège
+    start: 1996
+    end: 2001
+  - role: Assistant Professor of Economics
+    org: Cornell University
+    start: 1989
+    end: 1996
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
+  - title: Sun Yefang Economic Science Award
+    awarder: Sun Yefang Economic Science Foundation
+    date: "2017"
     icon: hero/trophy
+  - title: ERC Advanced Grant
+    awarder: European Research Council
+    date: "2015"
+    icon: hero/academic-cap
+  - title: Alfred P. Sloan Doctoral Fellowship
+    awarder: Alfred P. Sloan Foundation
+    date: "1988"
+    icon: hero/academic-cap
+  - title: John Randolph Haynes and Dora Haynes Fellowship
+    awarder: California Institute of Technology
+    date: "1988"
+    icon: hero/academic-cap
+  - title: Grant for Research Abroad
+    awarder: French Ministry of Foreign Affairs
+    date: "1982"
+    icon: hero/academic-cap

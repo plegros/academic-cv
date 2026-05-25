@@ -1,0 +1,8 @@
+article-journal: "Journal Article"
+article: "Working Paper"
+chapter: "Book Chapter"
+paper-conference: "Conference Paper"
+report: "Report"
+thesis: "Thesis"
+book: "Book"
+web-article: "Web Article"

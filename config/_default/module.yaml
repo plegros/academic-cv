@@ -25,5 +25,7 @@ mounts:
       - '**.css'
   - source: layouts
     target: layouts
+  - source: layouts/_partials
+    target: layouts/_partials
   - source: assets
     target: assets

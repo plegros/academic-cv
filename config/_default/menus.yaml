@@ -1,27 +1,64 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-  #     desired widget in your `content/home/` folder.
-  #   The weight parameter defines the order that the links will appear in.
-
 main:
   - name: Bio
     url: /
     weight: 10
-  - name: Papers
-    url: /#papers
-    weight: 11
-  - name: Talks
-    url: /#talks
-    weight: 12
-  - name: News
-    url: /#news
-    weight: 13
-  - name: Experience
-    url: experience/
+  - name: Publications
+    url: /journal-articles/
     weight: 20
-  - name: Projects
-    url: projects/
+  - name: Journal Articles
+    url: /journal-articles/
+    weight: 21
+    parent: Publications
+  - name: Working Papers
+    url: /working-papers/
+    weight: 22
+    parent: Publications
+  - name: Book Chapters
+    url: /book-chapters/
+    weight: 23
+    parent: Publications
+  - name: Conference Papers
+    url: /conference-papers/
+    weight: 24
+    parent: Publications
+  - name: Reports
+    url: /reports/
+    weight: 25
+    parent: Publications
+  - name: Web Articles
+    url: /web-articles/
+    weight: 26
+    parent: Publications
+  - name: Other
+    url: /other-publications/
+    weight: 27
+    parent: Publications
+  - name: Experience
+    url: /experience/
     weight: 30
-  - name: Courses
-    url: courses/
+  - name: News
+    url: /blog/
     weight: 40
+  - name: Interests
+    url: /topics/
+    weight: 25
+  - name: Organizational Economics
+    url: /topics/oe/
+    weight: 1
+    parent: Interests
+  - name: Industrial Organization
+    url: /topics/io/
+    weight: 2
+    parent: Interests
+  - name: Market Design
+    url: /topics/design/
+    weight: 3
+    parent: Interests
+  - name: Education
+    url: /topics/education/
+    weight: 4
+    parent: Interests
+  - name: Game Theory
+    url: /topics/game/
+    weight: 5
+    parent: Interests
