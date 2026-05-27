@@ -1,5 +1,5 @@
 ---
-title: "Edition scientifique et pouvoir de march"
+title: "Edition scientifique et pouvoir de marché"
 authors:
 - "Victor Ginsburgh"
 - "Mathias Dewatripont"
@@ -18,3 +18,4 @@ links:
   - type: link
     url: https://EconPapers.repec.org/RePEc:ulb:ulbeco:2013/152110
 ---
+c

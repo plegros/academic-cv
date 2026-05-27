@@ -1,5 +1,5 @@
 ---
-title: "Le nouveau modle europen. Volume 2: Les politiques internes et externes"
+title: "Le nouveau modèle europen. Volume 2: Les politiques internes et externes"
 authors:
 - "Sibylle Bauer"
 - "ric Remacle"
