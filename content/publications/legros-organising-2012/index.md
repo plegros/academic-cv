@@ -11,8 +11,8 @@ abstract: "As technologies have advanced, the way we invent has become much more
 tags: ["io", "design"]
 featured: false
 links:
-  - type: link
-    url: https://cepr.org/system/files/publication-files/60338-scifi_glow_new_perspectives_on_policy.pdf
-  - TYPE: pdf
+  - type: pdf
     url: "legros-organising innocation-scifiglow report.pdf"
+  - name: Full report
+    url: "content/publications/legros-organising-2012/"60338-scifi_glow_new_perspectives_on_policy.pdf"
 ---
