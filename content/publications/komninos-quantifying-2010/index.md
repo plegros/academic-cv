@@ -19,6 +19,6 @@ featured: false
 links:
   - type: doi
     url: https://data.europa.eu/doi/10.2763/36577
-  - pdf:
+  - type: pdf
     url: "report quantifying damages.pdf"
 ---
