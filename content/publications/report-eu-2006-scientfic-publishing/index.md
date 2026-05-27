@@ -41,12 +41,8 @@ hugoblox:
 links:
   - type: pdf
     url: "study scientific publishing2006.pdf"
-  - type: source
+  - name: "EU website"
     url: "https://op.europa.eu/en/publication-detail/-/publication/1058c2f8-5006-4d13-ae3f-acc6484623b9"
-image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com)"
-  focal_point: ""
-  preview_only: false
 projects: []
 slides: ""
 draft: false
