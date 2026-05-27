@@ -34,8 +34,7 @@ featured: false
 # Custom links
 links:
   - type: pdf
-    url: "legros information sharing notes.pdf"
-  
+    url: "legros-information-sharing-notes.pdf"
 draft: false
 ---
 
