@@ -11,6 +11,6 @@ abstract: ""
 tags: ["game"]
 featured: false
 links:
-  - type: link
+  - type: doi
     url: https://doi.org/10.1007/bf01756242
 ---

@@ -34,8 +34,10 @@ featured: false
 # Custom links
 links:
   - type: pdf
-    url: "legros-information-sharing-notes.pdf"
+    url: "notes-information-sharing.pdf"
+   
 draft: false
+
 ---
 
 <!-- Add the paper text or supplementary notes. Markdown, math, and code are supported. -->

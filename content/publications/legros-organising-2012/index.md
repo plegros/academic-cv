@@ -10,9 +10,10 @@ publication_short: "Final Policy Report to the European Commission from the SCIF
 abstract: "As technologies have advanced, the way we invent has become much more complicated, with many hundreds of intellectual property rights now involved in innovations. An example of the difficulties with organising innovation in the 21st century can be found by looking at the functioning of Standard Setting Organisations (SSO) – what is a good for the short term may have detrimental effects in the long term. Researchers should be encouraged to study the organisational choices by SSOs in order to provide a sound basis for policy that nourishes innovation while avoiding the threat of overprotecting property rights – or underprotecting them."
 tags: ["io", "design"]
 featured: false
+
 links:
-  - type: pdf
-    url: "legros-organising innocation-scifiglow report.pdf"
-  - name: Full report
-    url: "60338-scifi_glow_new_perspectives_on_policy.pdf"
+  -  type: pdf
+     url: "legros-organising-innovation-scifiglow-report.pdf"
+  -  name: EU report
+     url: "60338-scifi_glow_new_perspectives_on_policy.pdf"
 ---
