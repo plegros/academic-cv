@@ -35,9 +35,6 @@ tags:
   - io
   - design
 featured: false
-hugoblox:
-  ids:
-    arxiv: ""
 links:
   - type: pdf
     url: "study scientific publishing2006.pdf"
