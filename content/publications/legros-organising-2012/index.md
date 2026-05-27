@@ -14,5 +14,5 @@ links:
   - type: pdf
     url: "legros-organising innocation-scifiglow report.pdf"
   - name: Full report
-    url: "content/publications/legros-organising-2012/"60338-scifi_glow_new_perspectives_on_policy.pdf"
+    url: "60338-scifi_glow_new_perspectives_on_policy.pdf"
 ---
