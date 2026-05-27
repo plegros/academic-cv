@@ -17,7 +17,7 @@ abstract: "This report, prepared for the European Commission by Oxera with econo
 tags: ["io"]
 featured: false
 links:
-  - type: doi
+  - name: "EU Publication"
     url: https://data.europa.eu/doi/10.2763/36577
   - type: pdf
     url: "report quantifying damages.pdf"
