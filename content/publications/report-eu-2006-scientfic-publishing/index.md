@@ -38,7 +38,7 @@ featured: false
 hugoblox:
   ids:
     arxiv: ""
-links:
+links:s
   - type: pdf
     url: "study scientific publishing2006.pdf"
   - name: "EU website"
