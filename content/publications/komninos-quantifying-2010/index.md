@@ -8,8 +8,8 @@ authors:
 - "Julian Franks"
 - "Adriaan Ten Kate"
 - me
-date: "2010-01-01T00:00:00Z"
-publishDate: "2010-01-01T00:00:00Z"
+date: "2009-12-01T00:00:00Z"
+publishDate: "2009-12-01T00:00:00Z"
 publication_types: ["report"]
 publication: "European Commission: Directorate-General for Competition and Oxera"
 publication_short: ""
