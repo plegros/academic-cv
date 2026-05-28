@@ -18,6 +18,8 @@ abstract: ""
 tags: ["io", "oe"]
 featured: false
 links:
-  - type: link
-    url: https://doi.org/10.3386/w24603
+  - type: doi
+    url:  "https://doi.org/10.1093/jeea/jvad027"
+  - type: pdf
+    url: "alfaro-come-2024-paper.pdf"
 ---
