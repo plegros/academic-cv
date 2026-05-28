@@ -14,7 +14,7 @@ authors:
 - "others"
 date: "2000-01-01T00:00:00Z"
 publishDate: "2000-01-01T00:00:00Z"
-publication_types: ["article"]
+publication_types: ["chapter"]
 publication: ""
 publication_short: ""
 abstract: ""

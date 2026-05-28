@@ -2,7 +2,7 @@
 title: "Task Discretion, Labor-market Frictions, and Entrepreneurship"
 authors:
 - "Andrea Canidio"
-- admin
+- me
 date: "2023-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 publication: "The Journal of Law, Economics, and Organization, *39*(2)"
@@ -11,6 +11,6 @@ abstract: "An agent can perform a job in several ways, which we call tasks. Choo
 tags: ["io", "oe", "game"]
 featured: false
 links:
-  - name: URL
+  - type: doi
     url:  https://doi.org/10.1093/jleo/ewab030
 ---
