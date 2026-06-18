@@ -2,16 +2,15 @@
 title: "Adverse selection and contracts: a discussion"
 authors:
 - me
-- "others"
-date: "2002-01-01T00:00:00Z"
-publishDate: "2002-01-01T00:00:00Z"
-publication_types: ["paper-conference"]
-publication: ""
+date: "2003-01-01T00:00:00Z"
+publishDate: "2003-01-01T00:00:00Z"
+publication_types: ["chapter"]
+publication: "Advances in economics and econometrics : theory and applications : eighth world Congress, New York : Cambridge University Press." 
 publication_short: ""
 abstract: ""
 tags: ["oe"]
 featured: false
 links:
   - type: link
-    url: https://doi.org/10.1057/gpp.1983.39
+    url: https://searchworks.stanford.edu/view/5052583
 ---
