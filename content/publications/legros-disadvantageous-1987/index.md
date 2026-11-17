@@ -13,4 +13,6 @@ featured: false
 links:
   - type: link
     url: https://doi.org/10.1016/0022-0531(87)90101-3
+  - type: pdf
+    url: disadventageous_syndicates.pdf
 ---

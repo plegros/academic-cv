@@ -13,4 +13,6 @@ featured: false
 links:
   - type: doi
     url: https://doi.org/10.1007/bf01756242
+  - type: pdf
+    url: Legros 1987 computation.pdf
 ---
