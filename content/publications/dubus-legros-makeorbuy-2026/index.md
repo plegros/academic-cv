@@ -11,7 +11,8 @@ abstract: "Firms can share data to discover potential synergies between their da
 tags: ["io", "design", "game"]
 featured: false
 links:
-  - name: URL
+  - name: doi
     url: https://doi.org/10.1111/joie.70030
   - name: pdf
-    url: dubus_legros 2026 JIE.pdf---
+    url: dubus_legros_2026_JIE.pdf
+---
