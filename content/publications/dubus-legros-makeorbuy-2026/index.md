@@ -2,7 +2,7 @@
 title: "Make or Buy Decisions and Data Sharing"
 authors:
   - Antoine Dubus
-  - admin
+  - Patrick Legros
 date: 2026-05-22
 publication_types: ["article-journal"]
 publication: "The Journal of Industrial Economics"
@@ -13,4 +13,5 @@ featured: false
 links:
   - name: URL
     url: https://doi.org/10.1111/joie.70030
----
+  - name: pdf
+    url: The J Industrial Economics - 2026 - Dubus - Make or Buy Decisions and Data Sharing-2.pdf
