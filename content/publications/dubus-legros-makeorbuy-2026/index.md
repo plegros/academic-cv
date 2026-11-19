@@ -14,4 +14,4 @@ links:
   - name: URL
     url: https://doi.org/10.1111/joie.70030
   - name: pdf
-    url: The J Industrial Economics - 2026 - Dubus - Make or Buy Decisions and Data Sharing-2.pdf
+    url: dubus_legros 2026 JIE.pdf---
