@@ -14,5 +14,5 @@ links:
   - name: doi
     url: https://doi.org/10.1111/joie.70030
   - name: pdf
-    url: dubus_legros_2026_JIE.pdf
+    url: dubus_legros_2026_jie.pdf
 ---
